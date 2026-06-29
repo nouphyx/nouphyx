@@ -6,4 +6,4 @@
 - 🌐 Open Source Aficionado
 
 ## 🛠 &nbsp;Languages and Tools :
-[![Languages and Tools](https://skillicons.dev/icons?i=go,cs,dotnet,godot,ts,python,lua,linux,docker,azure)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=go,ts,js,lua,godot,python,ruby)](https://skillicons.dev)
