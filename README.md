@@ -1,9 +1,8 @@
 # Hello there 👋
 
 ## About Me:
-- 🎮 Game Developer
+- Love Art
 - Love Design
-- 🌐 Open Source Aficionado
 
 ## 🛠 &nbsp;Languages and Tools :
-[![Languages and Tools](https://skillicons.dev/icons?i=go,ts,js,lua,godot,python,ruby,php)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=go,ts,js,python,lua,ruby,php)](https://skillicons.dev)
