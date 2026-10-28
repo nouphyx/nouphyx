@@ -4,4 +4,4 @@
 🎮 Game Developer by night
 
 ## 🛠 &nbsp;Languages and Tools :
-[![Languages and Tools](https://skillicons.dev/icons?i=go,godot,ts,js,vue,lua,crystal,haxe,haxeflixel,python,php,docker,kubernets)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=go,godot,ts,js,vue,lua,haxe,haxeflixel,python,php,docker,kubernets)](https://skillicons.dev)
